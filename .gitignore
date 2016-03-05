@@ -2,3 +2,6 @@
 *.phar
 composer.lock
 phpunit.xml
+.buildpath
+.settings/
+.project
